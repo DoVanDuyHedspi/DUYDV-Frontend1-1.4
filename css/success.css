@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#container {
+	width: 90%;
+	margin: auto;
+}
+#container>h1 {
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 50px 0;
+}
+#box {
+	height: 500px;
+	padding-top: 125px;
+	background-color: #e4e4e4;
+}
+#content {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+#content img {
+	width: 100px;
+}
+#true {
+	margin-bottom: 100px;
+
+}
