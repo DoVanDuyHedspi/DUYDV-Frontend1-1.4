@@ -1,10 +1,7 @@
 
 # Bài tập Trainee Colombo 2018
 
-## Tiêu đề bài tập
-
-8 layout cơ bản
-
+## 8 layout cơ bản
 Không sử dụng thư viện
 
 Thực hiện bởi [Đỗ Văn Duy](https://github.com/DoVanDuyHedspi)
