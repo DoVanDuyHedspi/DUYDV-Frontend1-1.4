@@ -7,7 +7,7 @@
 
 Không sử dụng thư viện
 
-Thực hiện bởi [Tên ứng viên](https://github.com/DoVanDuyHedspi)
+Thực hiện bởi [Đỗ Văn Duy](https://github.com/DoVanDuyHedspi)
 
 ## Demo
 * Comment page : [Demo](https://dovanduyhedspi.github.io/DUYDV-Frontend1-1.4/comment.html)
